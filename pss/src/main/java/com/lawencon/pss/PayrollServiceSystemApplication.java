@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PayrollServiceSystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PayrollServiceSystemApplication.class, args); Test Tost
+		SpringApplication.run(PayrollServiceSystemApplication.class, args); Test Tostttttt
 	}
 
 }
